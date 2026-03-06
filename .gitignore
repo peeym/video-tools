@@ -1,0 +1,9 @@
+.DS_Store
+PROJECT-BRIEF.md
+CLAUDE.md
+__pycache__/
+*.pyc
+media_inventory.csv
+media_inventory.md
+move_log.csv
+snapshots/
